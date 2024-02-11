@@ -38,6 +38,14 @@ Feel free to reach out for collaborations, job opportunities, or just to say hel
 - 🐦 Twitter: [@ahuahuDAVI]
 - 🔗 LinkedIn: [https://www.linkedin.com/in/davi-neves-developer]
 
+## ☕ Buy me a Coffe
+
+- If you enjoy the work I do and want to keep me fueled with inspiration and motivation, consider supporting me on Buy Me a Coffee. Your contribution goes a long way in helping me dedicate more time to coding and producing quality content. Every little bit helps, and your support is greatly appreciated.
+
+- 🪙 Buy me a Coffe: [https://www.buymeacoffee.com/tiosam989]
+
+
+
 Thank you for stopping by!
 
 ---
