@@ -2,6 +2,9 @@
 
 I'm a Front-End Developer with a love for creating intuitive and engaging user interfaces. With over four years of experience, I've built a variety of web applications using cutting-edge technologies.
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TioSam989&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🚀 Skills
 
 - **Front-End Development**: Proficient in HTML, CSS, JavaScript, and frameworks like React and Vue.js.
