@@ -28,13 +28,11 @@ I'm a Front-End Developer with a love for creating intuitive and engaging user i
 
 ## 🌱 Currently Learning
 
-- Advanced React Native
-- Java
-- Nuxt
+- Svelte & SvelteKit
 
 ## 💼 Experience
 
-- **Consultant** at CSTC | *[Nov/23 - Present]*
+- **Consultant** at CSTC | *[Nov/23 - Nov/24]*
   - Developed mobile and web applications using React Native, Redux, Laravel, and Bootstrap.
   - Collaborated with cross-functional teams to implement new features and improve user experience.
 
