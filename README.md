@@ -1,6 +1,6 @@
-# Hello, I'm Davi Neves! 👋
+# Sup, I'm Davi Neves or TioSam! 👋
 
-I'm a Front-End Developer with a love for creating intuitive and engaging user interfaces. With over four years of experience, I've built a variety of web applications using cutting-edge technologies.
+I'm a Full-Stack Developer currently starting my professional journey in the backend area, while also coding in mobile and front-end technologies.
 
 [![Blog](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tiosam989)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-neves-developer)
@@ -25,27 +25,38 @@ I'm a Front-End Developer with a love for creating intuitive and engaging user i
 ## 🚀 Skills
 
 - **Front-End Development**: Proficient in HTML, CSS, JavaScript, and frameworks like React and Vue.js.
-- **Back-End Development**: Familiar with Node.js, Express, and databases such as MongoDB and CounchDB.
+- **Back-End Development**: Familiar with Node.js, Express, Python and databases such as MongoDB, CounchDB, MySQL and Firebase DBs.
 - **Mobile Development**: Experienced in React Native with Redux for building native apps.
 
 ## 🌱 Currently Learning
 
 - Julia
+- C++
 
 ## 💼 Experience
 
-- **Consultant** at CSTC | *[Nov/23 - Nov/24]*
+- **Full-Stack Developer** at CSTC | *[Nov/23 - Nov/24]*
   - Developed mobile and web applications using React Native, Redux, Laravel, and Bootstrap.
   - Collaborated with cross-functional teams to implement new features and improve user experience.
+
+- **Freelancer** at WWW | *[May/23 - Now]*
+  - Developed mobile and web applications using React Native, Redux, Laravel, and Bootstrap.
+  - Collaborated with cross-functional teams to implement new features and improve user experience.
+
+- **Full-Stack Developer** at POP | *[Dec/24 - Now]*
+  - Developing internal projects using Laravel and Python.
 
 ## 🎓 Education
 
 - High School Diploma in Information Systems Management and Programming Technician | *[2023]*
+- Studying SOftware Development Higher Lever Course at ISTEC | *[2024 - 2026]*
 
 ## 🎯 Goals
 
 - Contribute to open-source projects and grow my network in the tech community.
 - Build more impactful web applications and improve user experiences.
+- Feel proud of self-learning.
+- Build my own portifolio in 2025.
 
 ## 📫 How to Reach Me
 
