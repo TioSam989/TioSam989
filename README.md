@@ -18,6 +18,8 @@ I'm a Front-End Developer with a love for creating intuitive and engaging user i
   <img align="center" alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img align="center" alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte" />
+  <img align="center" alt="Julia" src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
 </div>
 
 ## 🚀 Skills
@@ -28,7 +30,7 @@ I'm a Front-End Developer with a love for creating intuitive and engaging user i
 
 ## 🌱 Currently Learning
 
-- Svelte & SvelteKit
+- Julia
 
 ## 💼 Experience
 
