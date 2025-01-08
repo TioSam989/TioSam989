@@ -8,6 +8,7 @@ I'm a Front-End Developer with a love for creating intuitive and engaging user i
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TioSam989&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block" > <br/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -17,7 +18,6 @@ I'm a Front-End Developer with a love for creating intuitive and engaging user i
   <img align="center" alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  
 </div>
 
 ## 🚀 Skills
