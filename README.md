@@ -1,80 +1,211 @@
-# Sup, I'm Davi Neves or TioSam! 👋
+<h1 align="center">Hi there! I'm Davi, aka TioSam 👋</h1>
 
-I'm a Full-Stack Developer currently starting my professional journey in the backend area, while also coding in mobile and front-end technologies.
+<div align="center">
 
-[![Blog](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tiosam989)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-neves-developer)
+![Homer Simpson hiding in bushes](https://media1.tenor.com/m/pXe-GokoyA0AAAAC/the-s-impsons-bush.gif)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TioSam989&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<div style="display: inline_block" > <br/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img align="center" alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img align="center" alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte" />
-  <img align="center" alt="Julia" src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
 </div>
 
-## 🚀 Skills
+<p align="left">I'm a laid-back Full-Stack Developer always on the lookout for cool new projects to dive into. I love tinkering with backend, mobile, and front-end tech. (:v)</p>
 
-- **Front-End Development**: Proficient in HTML, CSS, JavaScript, and frameworks like React and Vue.js.
-- **Back-End Development**: Familiar with Node.js, Express, Python and databases such as MongoDB, CounchDB, MySQL and Firebase DBs.
-- **Mobile Development**: Experienced in React Native with Redux for building native apps.
+<br clear="both">
 
-## 🌱 Currently Learning
+<h2 align="left">My Jam 🎶</h2>
 
-- Julia
-- C++
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="NextJS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="Storybook" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="Apache" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="Canva" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="60" alt="Codepen" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" height="60" alt="CouchDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="60" alt="Composer" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="Django" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="Flask" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="Jira" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="60" alt="Julia" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="Jupyter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="Laravel" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="60" alt="Lua" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="Notion" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="60" alt="NuxtJS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="Raspberry Pi" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="Redux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="Sass" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="60" alt="Socket.io" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="SQLite" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="60" alt="Svelte" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" alt="Vim" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VS Code" />
+</div>
 
-## 💼 Experience
+<br clear="both">
 
-- **Full-Stack Developer** at CSTC | *[Nov/23 - Nov/24]*
-  - Developed mobile and web applications using React Native, Redux, Laravel, and Bootstrap.
-  - Collaborated with cross-functional teams to implement new features and improve user experience.
+<h2 align="left">Where I've Been 💼</h2>
 
-- **Freelancer** at WWW | *[May/23 - Now]*
-  - Developed mobile and web applications using React Native, Redux, Laravel, and Bootstrap.
-  - Collaborated with cross-functional teams to implement new features and improve user experience.
+```javascript
+const jobExperience = { 
+  pop: {   
+    company: "POP", 
+    duration: "almost 1 year",
+    status: {
+      current: true,
+      freelance: true,
+      contractor: true,
+      fullTime: false
+    },
+    technologies: [
+      "Python",
+      "Laravel",
+      "NextJS"
+    ],
+    color: "🟢"
+  },
+  cstc: {
+    company: "CSTC",
+    duration: "1 year contract",
+    status: {
+      current: false,
+      freelance: false,
+      contractor: true,
+      fullTime: true
+    },
+    technologies: [
+      "React Native",
+      "Expo",
+      "Redux",
+      "Laravel server management"
+    ],
+    color: "🟡"
+  },
+  www: {
+    company: "WWW",
+    duration: "freelance projects",
+    status: {
+      current: true,
+      freelance: true,
+      contractor: false,
+      fullTime: false
+    },
+    technologies: ["Vue", "Pinea", "Firebase", "PHP", "Firestore"],
+    color: "🟠"
+  }
+};
 
-- **Full-Stack Developer** at POP | *[Dec/24 - Now]*
-  - Developing internal projects using Laravel and Python.
+const getCurrentJobs = () => {
+  return Object.values(jobExperience).filter(job => job.status.current);
+};
 
-## 🎓 Education
+const getFreelanceJobs = () => {
+  return Object.values(jobExperience).filter(job => job.status.freelance);
+};
 
-- High School Diploma in Information Systems Management and Programming Technician | *[2023]*
-- Studying SOftware Development Higher Lever Course at ISTEC | *[2024 - 2026]*
+```
 
-## 🎯 Goals
+### Fuel the Creative Flow
+Loving what you see? This fusion of code and art runs on caffeine and good vibes.
+If my projects spark something for you, consider fueling the next creation:
 
-- Contribute to open-source projects and grow my network in the tech community.
-- Build more impactful web applications and improve user experiences.
-- Feel proud of self-learning.
-- Build my own portifolio in 2025.
+<a href="https://www.buymeacoffee.com/tiosam989" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-## 📫 How to Reach Me
+Your support keeps the ideas brewing. Cheers! ☕✨
+###
 
-Feel free to reach out for collaborations, job opportunities, or just to say hello!
+<h2 align="left">Song helps me... 🎶</h2>
 
-- 📧 Email: [davi.neves.santos2@gmail.com
-]
-- 🐦 Twitter: [@ahuahuDAVI]
-- 🔗 LinkedIn: [https://www.linkedin.com/in/davi-neves-developer]
+###
 
-## ☕ Buy me a Coffe
+<div align="center">
+  <a href="https://open.spotify.com/user/3154aew4t3667klkqtfqovdyzsu4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3154aew4t3667klkqtfqovdyzsu4&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
-- If you enjoy the work I do and want to keep me fueled with inspiration and motivation, consider supporting me on Buy Me a Coffee. Your contribution goes a long way in helping me dedicate more time to coding and producing quality content. Every little bit helps, and your support is greatly appreciated.
+###
 
-- 🪙 Buy me a Coffe: [https://www.buymeacoffee.com/tiosam989]
+<h2 align="center">📞 Hit Me Up</h2>
 
+###
 
+<p align="left">Down to collab, talk shop, or just chill? Shoot me a message!Retry</p>
 
-Thank you for stopping by!
+###
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/davi-neves-developer/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/601182141061005312" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/dav1_neves/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/24698352/davi-neves" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://wa.me/351936350279" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TioSam989&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+See ya!
