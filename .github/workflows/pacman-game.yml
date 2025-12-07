@@ -1,0 +1,51 @@
+name: Pacman Contributions Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Roda a cada 6 horas
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/pacman-game.yml'  # Só roda se este arquivo mudar
+
+jobs:
+  update-pacman:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          
+      - name: Generate Pacman contribution graph
+        uses: jstnfx/generate-pacman-svg@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: "TioSam989"
+          output-path: "./generated-pacman.svg"
+          theme: "dark"  # ou "light"
+          
+      - name: Move to output folder
+        run: |
+          mkdir -p pacman-output
+          mv generated-pacman.svg pacman-output/pacman-contributions.svg
+          
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./pacman-output
+          destination_dir: pacman-animation
+          publish_branch: output
+          keep_files: true
+          force_orphan: false
