@@ -1,51 +1,25 @@
-name: Pacman Contributions Animation
+name: Update Pacman Graph
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"  # Roda a cada 6 horas
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - '.github/workflows/pacman-game.yml'  # Só roda se este arquivo mudar
+  schedule:
+    - cron: '30 2 * * *'
 
 jobs:
-  update-pacman:
+  update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-          
-      - name: Generate Pacman contribution graph
-        uses: jstnfx/generate-pacman-svg@v1
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: "TioSam989"
-          output-path: "./generated-pacman.svg"
-          theme: "dark"  # ou "light"
-          
-      - name: Move to output folder
+        
+      - name: Download Pacman Graph
         run: |
-          mkdir -p pacman-output
-          mv generated-pacman.svg pacman-output/pacman-contributions.svg
+          curl -L "https://github-readme-activity-graph.vercel.app/graph?username=TioSam989&theme=github-dark&custom_title=PAC-MAN%20CONTRIBUTIONS&bg_color=0d1117&color=ffdd00&line=00ff00&point=ff0000&area=true&hide_border=true" -o pacman-graph.svg
           
-      - name: Deploy to output branch
+      - name: Deploy Graph
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./pacman-output
-          destination_dir: pacman-animation
+          publish_dir: .
           publish_branch: output
-          keep_files: true
-          force_orphan: false
+          destination_dir: games
