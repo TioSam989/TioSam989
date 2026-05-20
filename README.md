@@ -106,7 +106,7 @@ const jobExperience = {
       "Django"
     ],
     color: "🟢"
-  }
+  },
   pop: {   
     company: "POP", 
     duration: "almost 1 year",
