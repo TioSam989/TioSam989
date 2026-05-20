@@ -91,22 +91,37 @@
 <h2 align="left">Where I've Been 💼</h2>
 
 ```javascript
-const jobExperience = { 
+const jobExperience = {
+  ALTEN: {
+    company: "ALTEN",
+    duration: "started in march of 2026",
+    status: {
+      current: true,
+      freelance: false,
+      contractor: true,
+      fullTime: true
+    },
+    technologies: [
+      "Python",
+      "Django"
+    ],
+    color: "🟢"
+  }
   pop: {   
     company: "POP", 
     duration: "almost 1 year",
     status: {
-      current: true,
+      current: false,
       freelance: true,
       contractor: true,
-      fullTime: false
+      fullTime: true
     },
     technologies: [
       "Python",
       "Laravel",
       "NextJS"
     ],
-    color: "🟢"
+    color: "🟡"
   },
   cstc: {
     company: "CSTC",
