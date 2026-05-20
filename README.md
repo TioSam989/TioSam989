@@ -92,7 +92,7 @@
 
 ```javascript
 const jobExperience = {
-  ALTEN: {
+  alten: {
     company: "ALTEN",
     duration: "started in march of 2026",
     status: {
