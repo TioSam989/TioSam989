@@ -103,7 +103,9 @@ const jobExperience = {
     },
     technologies: [
       "Python",
-      "Django"
+      "Django",
+      "Vue3",
+      "Storybook"
     ],
     color: "🟢"
   },
